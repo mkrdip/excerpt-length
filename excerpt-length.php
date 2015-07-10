@@ -1,10 +1,10 @@
 <?php
 /*
 Plugin Name: Excerpt Length
-Plugin URI: http://leekelleher.com/wordpress/plugins/excerpt-length/
+Plugin URI: https://wordpress.org/plugins/excerpt-length/
 Description: Adds an Excerpt Length field setting to the <a href="options-reading.php">Reading Settings</a> section. This value is used to specify the number of words that you would like to appear in the <a href="http://codex.wordpress.org/Template_Tags/the_excerpt" rel="external">the_excerpt()</a>.
 Author: Mrinal Kanti Roy
-Version: 1.1
+Version: 1.2
 Author URI: http://mkrdip.me
 */
 
